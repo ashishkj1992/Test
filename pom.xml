@@ -18,15 +18,6 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.36</version>
 		</dependency>
-		hellodkdfkdkdkfdfk
-		
-		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-<dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-core</artifactId>
-    <version>3.1.1.RELEASE</version>
-</dependency>
-		
 	</dependencies>
 	<build>
 		<finalName>${project.artifactId}</finalName>

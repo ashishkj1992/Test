@@ -15,5 +15,6 @@
 	<classpathentry exported="true" kind="var" path="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
 	<classpathentry exported="true" kind="var" path="M2_REPO/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar"/>
 	<classpathentry exported="true" kind="var" path="M2_REPO/mysql/mysql-connector-java/5.1.36/mysql-connector-java-5.1.36.jar"/>
+	<classpathentry kind="lib" path="C:/ASHISHJAISWAL/Student DVD/log4j-1.2.17/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
